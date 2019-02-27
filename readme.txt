@@ -21,6 +21,7 @@ Anggota 1
  Nama : Bilal Zahran Aufa
  NIM : 1301164676
  Line : bilalzahran
+ 
 Anggota 2
 nama: Syiti Liviani Mahfiz
 nim: 1301174515
@@ -37,3 +38,10 @@ Anggota 3
  Fb : Vento Deco
  Instagram : @ventodeco
  Linkedin : https://www.linkedin.com/in/yosep-novento-nugroho-b3b519176/
+
+Anggota 4
+ Nama : Fadhillah Pramadhan Anhar
+ NIM : 1301161772
+ LINE : ramaanhar
+ Facebook : facebook.com/fadhillah.pramadhananhar
+ Instagram : @ramaanhar
